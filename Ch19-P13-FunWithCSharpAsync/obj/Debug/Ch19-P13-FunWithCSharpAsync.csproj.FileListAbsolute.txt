@@ -1,0 +1,7 @@
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch19-P13-FunWithCSharpAsync\Ch19-P13-FunWithCSharpAsync\bin\Debug\Ch19-P13-FunWithCSharpAsync.exe.config
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch19-P13-FunWithCSharpAsync\Ch19-P13-FunWithCSharpAsync\bin\Debug\Ch19-P13-FunWithCSharpAsync.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch19-P13-FunWithCSharpAsync\Ch19-P13-FunWithCSharpAsync\bin\Debug\Ch19-P13-FunWithCSharpAsync.pdb
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch19-P13-FunWithCSharpAsync\Ch19-P13-FunWithCSharpAsync\obj\Debug\Ch19-P13-FunWithCSharpAsync.csprojAssemblyReference.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch19-P13-FunWithCSharpAsync\Ch19-P13-FunWithCSharpAsync\obj\Debug\Ch19-P13-FunWithCSharpAsync.csproj.CoreCompileInputs.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch19-P13-FunWithCSharpAsync\Ch19-P13-FunWithCSharpAsync\obj\Debug\Ch19-P13-FunWithCSharpAsync.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch19-P13-FunWithCSharpAsync\Ch19-P13-FunWithCSharpAsync\obj\Debug\Ch19-P13-FunWithCSharpAsync.pdb
